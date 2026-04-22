@@ -2,15 +2,20 @@
 Sistema Integral de Gestión de Clientes, Servicios y Reservas
 
 # Objetivo general del proyecto
+
 Crear un sistema de gestion integral que este basado en una estructura de objetivos, 
 para que sea un sistema eficiente de manejo de clientes, servicios y reservas manteniendo estabilidad
 en la operacion del sistema por medio del uso avanzado de excepciones y el registro de archivos locales
 sin tener dependencia a una base de datos.
 
 # Objetivos especificos.
+
 -Crear estructuras modulares de gerarquias implementando clases y metodos especiales
+
 -Proponer un metodo robusto en el control para mitigar errores
+
 -Implementar logica mediante metodos sobrecargados para el calculo de costos
+
 -Realizar escenarios de pruebas de almenos 10 operaciones
 
 # Estructura del sistema
