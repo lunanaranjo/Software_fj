@@ -27,7 +27,7 @@ class Entidad(ABC):
     def obtener_detalles(self):
         pass
 
-# CLASE CLIENTE
+# CLASE USUARIO
 
 class Cliente(Entidad):
     def __init__(self, identificacion, nombre, email):
@@ -258,7 +258,7 @@ def menu():
         print("2. Diseñar reserva")
         print("3. Ver lista de clientes")
         print("4. Ver lista de reservas")
-        print("5. Iniciar simulacuin simulación")
+        print("5. Iniciar simulación")
         print("6. Salir")
 
         opcion = input("Seleccione una opción: ")
