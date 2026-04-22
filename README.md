@@ -19,19 +19,29 @@ sin tener dependencia a una base de datos.
 -Realizar escenarios de pruebas de almenos 10 operaciones
 
 # Estructura del sistema
+
 El sistema esta estructurado con los soguientes elementos:
+
 -Bases: define la estructura de los objetos del sistema.
+
 -Gestion de usuarios: Validacion de los datos personales.
+
 -Gestion en los servicios: metodos para calcular el costo y la validacion.
+
 -Gestion de las reservas: integra el usuario, el servicio, el tiempo
 y el estado de la reserva
+
 -Control de errores: Captura excepciones
 
 # Demostraciones de las pruebas.
+
 El sistema incluye 10 operaciones de prueba
+
 -Casos no validos: Datos erroneos o datos faltantes, servicio no disponible 
 o calculos de costos erroneos
+
 -Casos validos: Registros correctos, creacion de reservas exitosas
+
 -Respuestas: Se captura las excepciones y registra los errores en el log y sigue
 su ciclo de operacion sin algun tipo de interrupcion
 
