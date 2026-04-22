@@ -8,10 +8,10 @@ en la operacion del sistema por medio del uso avanzado de excepciones y el regis
 sin tener dependencia a una base de datos.
 
 # Objetivos especificos.
-#-Crear estructuras modulares de gerarquias implementando clases y metodos especiales
-#-Proponer un metodo robusto en el control para mitigar errores
-#-Implementar logica mediante metodos sobrecargados para el calculo de costos
-#-Realizar escenarios de pruebas de almenos 10 operaciones
+-Crear estructuras modulares de gerarquias implementando clases y metodos especiales
+-Proponer un metodo robusto en el control para mitigar errores
+-Implementar logica mediante metodos sobrecargados para el calculo de costos
+-Realizar escenarios de pruebas de almenos 10 operaciones
 
 # Estructura del sistema
 El sistema esta estructurado con los soguientes elementos:
