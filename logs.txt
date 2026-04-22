@@ -1,0 +1,17 @@
+2026-04-22 12:00:20,547 - INFO - Cliente registrado: Luna
+2026-04-22 12:00:43,726 - INFO - Cliente registrado: didier
+2026-04-22 12:01:08,015 - INFO - Cliente registrado: maritza
+2026-04-22 12:01:26,899 - INFO - Reserva confirmada para Luna
+2026-04-22 12:01:26,899 - INFO - Estado final reserva: CONFIRMADA
+2026-04-22 12:01:40,860 - INFO - Reserva confirmada para maritza
+2026-04-22 12:01:40,860 - INFO - Estado final reserva: CONFIRMADA
+2026-04-22 12:02:07,069 - INFO - Reserva confirmada para didier
+2026-04-22 12:02:07,069 - INFO - Estado final reserva: CONFIRMADA
+2026-04-22 12:02:40,304 - INFO - Cliente registrado: Carlos Perez
+2026-04-22 12:02:40,305 - INFO - Cliente registrado: Ana
+2026-04-22 12:02:40,306 - INFO - Reserva confirmada para Carlos Perez
+2026-04-22 12:02:40,307 - INFO - Estado final reserva: CONFIRMADA
+2026-04-22 12:02:40,308 - INFO - Reserva confirmada para Ana
+2026-04-22 12:02:40,308 - INFO - Estado final reserva: CONFIRMADA
+2026-04-22 12:02:40,308 - ERROR - Error al procesar reserva: Error en reserva de sala.
+2026-04-22 12:02:40,309 - INFO - Estado final reserva: FALLIDA
